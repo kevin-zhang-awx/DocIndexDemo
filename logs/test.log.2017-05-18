@@ -1,0 +1,24 @@
+[INFO ][2017-05-18 09:58:33][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.docx
+[INFO ][2017-05-18 09:58:33][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-2 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pptx
+[INFO ][2017-05-18 09:58:33][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:54)]thread pool shutdown!
+[INFO ][2017-05-18 10:04:00][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-2 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pptx
+[INFO ][2017-05-18 10:04:00][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.docx
+[INFO ][2017-05-18 10:04:00][io.transwarp.docutils.DocxExtractor.extract(DocxExtractor.java:42)]SIGN
+[INFO ][2017-05-18 10:04:01][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:54)]thread pool shutdown!
+[INFO ][2017-05-18 10:04:27][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.docx
+[INFO ][2017-05-18 10:04:27][io.transwarp.docutils.DocxExtractor.extract(DocxExtractor.java:42)]SIGN
+[INFO ][2017-05-18 10:04:28][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:54)]thread pool shutdown!
+[INFO ][2017-05-18 10:07:16][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.docx
+[INFO ][2017-05-18 10:07:16][io.transwarp.docutils.DocxExtractor.extract(DocxExtractor.java:42)]SIGN1
+[INFO ][2017-05-18 10:07:17][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:54)]thread pool shutdown!
+[INFO ][2017-05-18 10:15:58][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.docx
+[INFO ][2017-05-18 10:15:58][io.transwarp.docutils.DocxExtractor.extract(DocxExtractor.java:42)]SIGN1
+[INFO ][2017-05-18 10:19:41][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.docx
+[INFO ][2017-05-18 10:19:41][io.transwarp.docutils.DocxExtractor.extract(DocxExtractor.java:41)]bytes:13331
+[INFO ][2017-05-18 10:19:41][io.transwarp.docutils.DocxExtractor.extract(DocxExtractor.java:42)]SIGN1
+[INFO ][2017-05-18 14:55:02][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-2 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test1.docx
+[INFO ][2017-05-18 14:55:02][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.docx
+[INFO ][2017-05-18 14:55:02][io.transwarp.docutils.DocxExtractor.extract(DocxExtractor.java:41)]bytes:13221
+[INFO ][2017-05-18 14:55:02][io.transwarp.docutils.DocxExtractor.extract(DocxExtractor.java:42)]SIGN1
+[INFO ][2017-05-18 14:55:02][io.transwarp.docutils.DocxExtractor.extract(DocxExtractor.java:41)]bytes:13331
+[INFO ][2017-05-18 14:55:02][io.transwarp.docutils.DocxExtractor.extract(DocxExtractor.java:42)]SIGN1

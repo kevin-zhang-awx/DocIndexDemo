@@ -1,0 +1,71 @@
+[INFO ][2017-05-17 10:21:31][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:28)]pool-1-thread-2 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.doc
+[INFO ][2017-05-17 10:21:31][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:28)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\dadfaf.doc
+[INFO ][2017-05-17 10:21:31][io.transwarp.docutils.DocExtractor.extract(DocExtractor.java:57)]Extract text from dadfaf.doc, write text to text_dir\dadfaf.doc.txt
+[INFO ][2017-05-17 10:21:31][io.transwarp.docutils.DocExtractor.extract(DocExtractor.java:57)]Extract text from test.doc, write text to text_dir\test.doc.txt
+[INFO ][2017-05-17 10:21:31][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:45)]pool-1-thread-1 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\dadfaf.doc
+[INFO ][2017-05-17 10:21:31][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:45)]pool-1-thread-2 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\test.doc
+[INFO ][2017-05-17 10:25:34][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:28)]pool-1-thread-2 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.doc
+[INFO ][2017-05-17 10:25:34][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:28)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\dadfaf.doc
+[INFO ][2017-05-17 10:25:34][io.transwarp.docutils.DocExtractor.extract(DocExtractor.java:41)]Extract text from dadfaf.doc, write text to text_dir\dadfaf.doc.txt
+[INFO ][2017-05-17 10:25:34][io.transwarp.docutils.DocExtractor.extract(DocExtractor.java:41)]Extract text from test.doc, write text to text_dir\test.doc.txt
+[INFO ][2017-05-17 10:25:34][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:45)]pool-1-thread-2 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\test.doc
+[INFO ][2017-05-17 10:25:34][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:45)]pool-1-thread-1 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\dadfaf.doc
+[INFO ][2017-05-17 15:12:28][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\dadfaf.doc
+[INFO ][2017-05-17 15:12:28][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-2 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.doc
+[INFO ][2017-05-17 15:12:29][io.transwarp.docutils.DocExtractor.extract(DocExtractor.java:40)]Extract text from dadfaf.doc, write text to text_dir\dadfaf.doc.txt
+[INFO ][2017-05-17 15:12:29][io.transwarp.docutils.DocExtractor.extract(DocExtractor.java:40)]Extract text from test.doc, write text to text_dir\test.doc.txt
+[INFO ][2017-05-17 15:12:29][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:47)]pool-1-thread-1 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\dadfaf.doc
+[INFO ][2017-05-17 15:12:29][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:47)]pool-1-thread-2 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\test.doc
+[INFO ][2017-05-17 15:12:29][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:54)]thread pool shutdown!
+[INFO ][2017-05-17 15:17:45][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-4 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.ppt
+[INFO ][2017-05-17 15:17:45][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-2 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.docx
+[INFO ][2017-05-17 15:17:45][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.doc
+[INFO ][2017-05-17 15:17:45][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-3 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pdf
+[ERROR][2017-05-17 15:17:45][io.transwarp.docutils.PPTExtractor.extract(PPTExtractor.java:35)]Error in extracting text from E:\IDEA\DocumentDemo\document_dir\test.ppt, error msg is:Invalid header signature; read 0x0000000000000000, expected 0xE11AB1A1E011CFD0 - Your file appears not to be a valid OLE2 document
+[INFO ][2017-05-17 15:17:45][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:47)]pool-1-thread-4 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\test.ppt
+[INFO ][2017-05-17 15:17:45][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-4 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pptx
+[INFO ][2017-05-17 15:17:45][io.transwarp.docutils.DocExtractor.extract(DocExtractor.java:40)]Extract text from test.doc, write text to text_dir\test.doc.txt
+[INFO ][2017-05-17 15:17:45][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:47)]pool-1-thread-1 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\test.doc
+[INFO ][2017-05-17 15:17:47][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:43)]Extract text from test.pdf, write text to text_dir\test.pdf.txt
+[INFO ][2017-05-17 15:17:47][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:47)]pool-1-thread-3 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pdf
+[INFO ][2017-05-17 15:17:47][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:54)]thread pool shutdown!
+[INFO ][2017-05-17 15:24:09][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.doc
+[INFO ][2017-05-17 15:24:09][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-4 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.ppt
+[INFO ][2017-05-17 15:24:09][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-3 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pdf
+[INFO ][2017-05-17 15:24:09][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-2 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.docx
+[ERROR][2017-05-17 15:24:09][io.transwarp.docutils.PPTExtractor.extract(PPTExtractor.java:35)]Error in extracting text from E:\IDEA\DocumentDemo\document_dir\test.ppt, error msg is:Invalid header signature; read 0x0000000000000000, expected 0xE11AB1A1E011CFD0 - Your file appears not to be a valid OLE2 document
+[INFO ][2017-05-17 15:24:09][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:47)]pool-1-thread-4 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\test.ppt
+[INFO ][2017-05-17 15:24:09][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-4 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pptx
+[INFO ][2017-05-17 15:24:09][io.transwarp.docutils.DocExtractor.extract(DocExtractor.java:40)]Extract text from test.doc, write text to text_dir\test.doc.txt
+[INFO ][2017-05-17 15:24:10][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:47)]pool-1-thread-1 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\test.doc
+[INFO ][2017-05-17 15:24:11][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:43)]Extract text from test.pdf, write text to text_dir\test.pdf.txt
+[INFO ][2017-05-17 15:24:11][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:47)]pool-1-thread-3 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pdf
+[INFO ][2017-05-17 15:24:11][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:54)]thread pool shutdown!
+[INFO ][2017-05-17 15:31:37][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-2 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pptx
+[INFO ][2017-05-17 15:31:37][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.docx
+[INFO ][2017-05-17 15:31:37][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-3 start extracting doc:E:\IDEA\DocumentDemo\document_dir\~$test.docx
+[INFO ][2017-05-17 15:31:37][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:54)]thread pool shutdown!
+[INFO ][2017-05-17 15:31:54][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.docx
+[INFO ][2017-05-17 15:31:54][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-2 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pptx
+[INFO ][2017-05-17 15:31:54][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:54)]thread pool shutdown!
+[INFO ][2017-05-17 15:33:20][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.docx
+[INFO ][2017-05-17 15:33:20][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-2 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pptx
+[INFO ][2017-05-17 15:33:20][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:54)]thread pool shutdown!
+[INFO ][2017-05-17 15:33:57][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-2 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pptx
+[INFO ][2017-05-17 15:33:57][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.docx
+[INFO ][2017-05-17 15:33:57][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:54)]thread pool shutdown!
+[INFO ][2017-05-17 15:34:24][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.docx
+[INFO ][2017-05-17 15:34:24][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-2 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pptx
+[INFO ][2017-05-17 15:34:24][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:54)]thread pool shutdown!
+[INFO ][2017-05-17 15:36:54][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.docx
+[INFO ][2017-05-17 15:36:54][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-2 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pptx
+[INFO ][2017-05-17 15:36:54][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:54)]thread pool shutdown!
+[INFO ][2017-05-17 15:46:11][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-2 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pptx
+[INFO ][2017-05-17 15:46:11][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.docx
+[INFO ][2017-05-17 15:46:11][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:54)]thread pool shutdown!
+[INFO ][2017-05-17 15:46:35][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.docx
+[INFO ][2017-05-17 15:46:35][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-2 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pptx
+[INFO ][2017-05-17 15:46:35][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:54)]thread pool shutdown!
+[INFO ][2017-05-17 15:59:49][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.docx
+[INFO ][2017-05-17 15:59:49][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-2 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pptx
+[INFO ][2017-05-17 15:59:49][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:54)]thread pool shutdown!

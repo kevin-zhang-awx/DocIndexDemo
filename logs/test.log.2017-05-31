@@ -1,0 +1,116 @@
+[INFO ][2017-05-31 11:41:04][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:28)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pdf
+[INFO ][2017-05-31 11:41:08][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:45)]Extract text from test.pdf, write text to text_dir\test.pdf.txt
+[INFO ][2017-05-31 11:41:09][org.elasticsearch.plugins.PluginsService.<init>(PluginsService.java:153)][Carmella Unuscione] loaded [], sites []
+[INFO ][2017-05-31 11:41:11][io.transwarp.elasticsearch.IndexDocument.createIndex(IndexDocument.java:52)]cluster size:3
+[INFO ][2017-05-31 11:41:14][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:48)]Extract text from test.pdf, load to ES
+[INFO ][2017-05-31 11:41:14][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:48)]pool-1-thread-1 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pdf
+[INFO ][2017-05-31 14:31:45][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:28)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.docx
+[INFO ][2017-05-31 14:34:46][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:28)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.docx
+[INFO ][2017-05-31 14:34:46][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:54)]thread pool shutdown!
+[INFO ][2017-05-31 14:37:10][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:28)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.docx
+[WARN ][2017-05-31 14:38:10][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:52)]shutdown thread pool timeout:60 s
+[INFO ][2017-05-31 14:38:10][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:54)]thread pool shutdown!
+[INFO ][2017-05-31 14:41:52][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:28)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.docx
+[INFO ][2017-05-31 14:41:52][io.transwarp.docutils.DocxExtractor.extract(DocxExtractor.java:61)]closing inputstream
+[INFO ][2017-05-31 14:42:20][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:28)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.docx
+[INFO ][2017-05-31 14:42:20][io.transwarp.docutils.DocxExtractor.extract(DocxExtractor.java:61)]closing inputstream
+[WARN ][2017-05-31 14:43:20][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:52)]shutdown thread pool timeout:60 s
+[INFO ][2017-05-31 14:43:20][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:54)]thread pool shutdown!
+[INFO ][2017-05-31 14:53:38][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:28)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.docx
+[INFO ][2017-05-31 14:53:38][io.transwarp.docutils.DocxExtractor.extract(DocxExtractor.java:61)]closing inputstream
+[INFO ][2017-05-31 14:53:38][io.transwarp.docutils.DocxExtractor.extract(DocxExtractor.java:70)]closing 
+[WARN ][2017-05-31 14:54:38][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:52)]shutdown thread pool timeout:60 s
+[INFO ][2017-05-31 14:54:38][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:54)]thread pool shutdown!
+[INFO ][2017-05-31 14:57:06][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:28)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.docx
+[INFO ][2017-05-31 14:57:06][io.transwarp.docutils.DocxExtractor.extract(DocxExtractor.java:64)]closing inputstream
+[INFO ][2017-05-31 14:57:06][io.transwarp.docutils.DocxExtractor.extract(DocxExtractor.java:73)]closing 
+[WARN ][2017-05-31 14:58:06][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:52)]shutdown thread pool timeout:60 s
+[INFO ][2017-05-31 14:58:06][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:54)]thread pool shutdown!
+[INFO ][2017-05-31 15:39:05][org.elasticsearch.plugins.PluginsService.<init>(PluginsService.java:153)][Novs] loaded [], sites []
+[INFO ][2017-05-31 15:40:06][org.elasticsearch.plugins.PluginsService.<init>(PluginsService.java:153)][Xorr the God-Jewel] loaded [], sites []
+[INFO ][2017-05-31 15:40:53][org.elasticsearch.plugins.PluginsService.<init>(PluginsService.java:153)][Sultan] loaded [], sites []
+[INFO ][2017-05-31 15:44:45][org.elasticsearch.plugins.PluginsService.<init>(PluginsService.java:153)][Charon] loaded [], sites []
+[INFO ][2017-05-31 15:44:48][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:32)]pool-1-thread-2 start extracting doc:E:\IDEA\DocumentDemo\document_dir\InceptorODBCDeveloperGuide_T00148x-15-010_2017-04-10.pdf
+[INFO ][2017-05-31 15:44:48][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:32)]pool-1-thread-3 start extracting doc:E:\IDEA\DocumentDemo\document_dir\Midas安装指南_MidasV2.0_2017-04-10.pdf
+[INFO ][2017-05-31 15:44:48][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:32)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\DataDictionaryManual_T00148x-16-010_2017-03-20.pdf
+[INFO ][2017-05-31 15:44:49][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:44)]Extract text from Midas安装指南_MidasV2.0_2017-04-10.pdf, write text to text_dir\Midas安装指南_MidasV2.0_2017-04-10.pdf.txt
+[INFO ][2017-05-31 15:44:50][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:44)]Extract text from InceptorODBCDeveloperGuide_T00148x-15-010_2017-04-10.pdf, write text to text_dir\InceptorODBCDeveloperGuide_T00148x-15-010_2017-04-10.pdf.txt
+[INFO ][2017-05-31 15:44:50][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:46)]Extract text from Midas安装指南_MidasV2.0_2017-04-10.pdf, load to ES
+[INFO ][2017-05-31 15:44:50][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:52)]pool-1-thread-3 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\Midas安装指南_MidasV2.0_2017-04-10.pdf
+[INFO ][2017-05-31 15:44:50][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:44)]Extract text from DataDictionaryManual_T00148x-16-010_2017-03-20.pdf, write text to text_dir\DataDictionaryManual_T00148x-16-010_2017-03-20.pdf.txt
+[INFO ][2017-05-31 15:44:50][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:46)]Extract text from InceptorODBCDeveloperGuide_T00148x-15-010_2017-04-10.pdf, load to ES
+[INFO ][2017-05-31 15:44:50][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:52)]pool-1-thread-2 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\InceptorODBCDeveloperGuide_T00148x-15-010_2017-04-10.pdf
+[INFO ][2017-05-31 15:44:50][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:46)]Extract text from DataDictionaryManual_T00148x-16-010_2017-03-20.pdf, load to ES
+[INFO ][2017-05-31 15:44:50][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:52)]pool-1-thread-1 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\DataDictionaryManual_T00148x-16-010_2017-03-20.pdf
+[WARN ][2017-05-31 15:45:48][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:63)]shutdown thread pool timeout:60 s
+[INFO ][2017-05-31 15:45:48][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:65)]thread pool shutdown!
+[INFO ][2017-05-31 16:12:02][org.elasticsearch.plugins.PluginsService.<init>(PluginsService.java:153)][White Tiger] loaded [], sites []
+[INFO ][2017-05-31 16:12:30][org.elasticsearch.plugins.PluginsService.<init>(PluginsService.java:153)][Beta Ray Bill] loaded [], sites []
+[INFO ][2017-05-31 16:12:35][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:32)]pool-1-thread-2 start extracting doc:E:\IDEA\DocumentDemo\document_dir\InceptorODBCDeveloperGuide_T00148x-15-010_2017-04-10.pdf
+[INFO ][2017-05-31 16:12:35][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:32)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\DataDictionaryManual_T00148x-16-010_2017-03-20.pdf
+[INFO ][2017-05-31 16:12:35][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:32)]pool-1-thread-3 start extracting doc:E:\IDEA\DocumentDemo\document_dir\Midas安装指南_MidasV2.0_2017-04-10.pdf
+[INFO ][2017-05-31 16:12:37][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:44)]Extract text from Midas安装指南_MidasV2.0_2017-04-10.pdf, write text to text_dir\Midas安装指南_MidasV2.0_2017-04-10.pdf.txt
+[INFO ][2017-05-31 16:12:37][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:46)]Extract text from Midas安装指南_MidasV2.0_2017-04-10.pdf, load to ES
+[INFO ][2017-05-31 16:12:37][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:52)]pool-1-thread-3 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\Midas安装指南_MidasV2.0_2017-04-10.pdf
+[INFO ][2017-05-31 16:12:37][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:44)]Extract text from InceptorODBCDeveloperGuide_T00148x-15-010_2017-04-10.pdf, write text to text_dir\InceptorODBCDeveloperGuide_T00148x-15-010_2017-04-10.pdf.txt
+[INFO ][2017-05-31 16:12:37][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:44)]Extract text from DataDictionaryManual_T00148x-16-010_2017-03-20.pdf, write text to text_dir\DataDictionaryManual_T00148x-16-010_2017-03-20.pdf.txt
+[INFO ][2017-05-31 16:12:37][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:46)]Extract text from InceptorODBCDeveloperGuide_T00148x-15-010_2017-04-10.pdf, load to ES
+[INFO ][2017-05-31 16:12:37][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:52)]pool-1-thread-2 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\InceptorODBCDeveloperGuide_T00148x-15-010_2017-04-10.pdf
+[INFO ][2017-05-31 16:12:38][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:46)]Extract text from DataDictionaryManual_T00148x-16-010_2017-03-20.pdf, load to ES
+[INFO ][2017-05-31 16:12:38][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:52)]pool-1-thread-1 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\DataDictionaryManual_T00148x-16-010_2017-03-20.pdf
+[WARN ][2017-05-31 16:13:35][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:63)]shutdown thread pool timeout:60 s
+[INFO ][2017-05-31 16:13:35][io.transwarp.extractor.TextExtractor.extractText(TextExtractor.java:65)]thread pool shutdown!
+[INFO ][2017-05-31 16:20:12][org.elasticsearch.plugins.PluginsService.<init>(PluginsService.java:153)][Futurist] loaded [], sites []
+[INFO ][2017-05-31 16:22:32][org.elasticsearch.plugins.PluginsService.<init>(PluginsService.java:153)][Captain Savage] loaded [], sites []
+[INFO ][2017-05-31 16:22:37][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:32)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\DataDictionaryManual_T00148x-16-010_2017-03-20.pdf
+[INFO ][2017-05-31 16:22:37][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:32)]pool-1-thread-3 start extracting doc:E:\IDEA\DocumentDemo\document_dir\Midas安装指南_MidasV2.0_2017-04-10.pdf
+[INFO ][2017-05-31 16:22:37][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:32)]pool-1-thread-2 start extracting doc:E:\IDEA\DocumentDemo\document_dir\InceptorODBCDeveloperGuide_T00148x-15-010_2017-04-10.pdf
+[INFO ][2017-05-31 16:22:40][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:44)]Extract text from Midas安装指南_MidasV2.0_2017-04-10.pdf, write text to text_dir\Midas安装指南_MidasV2.0_2017-04-10.pdf.txt
+[INFO ][2017-05-31 16:22:40][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:46)]Extract text from Midas安装指南_MidasV2.0_2017-04-10.pdf, load to ES
+[INFO ][2017-05-31 16:22:40][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:52)]pool-1-thread-3 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\Midas安装指南_MidasV2.0_2017-04-10.pdf
+[INFO ][2017-05-31 16:22:41][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:44)]Extract text from InceptorODBCDeveloperGuide_T00148x-15-010_2017-04-10.pdf, write text to text_dir\InceptorODBCDeveloperGuide_T00148x-15-010_2017-04-10.pdf.txt
+[INFO ][2017-05-31 16:22:41][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:46)]Extract text from InceptorODBCDeveloperGuide_T00148x-15-010_2017-04-10.pdf, load to ES
+[INFO ][2017-05-31 16:22:41][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:52)]pool-1-thread-2 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\InceptorODBCDeveloperGuide_T00148x-15-010_2017-04-10.pdf
+[INFO ][2017-05-31 16:22:41][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:44)]Extract text from DataDictionaryManual_T00148x-16-010_2017-03-20.pdf, write text to text_dir\DataDictionaryManual_T00148x-16-010_2017-03-20.pdf.txt
+[INFO ][2017-05-31 16:22:41][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:46)]Extract text from DataDictionaryManual_T00148x-16-010_2017-03-20.pdf, load to ES
+[INFO ][2017-05-31 16:22:41][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:52)]pool-1-thread-1 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\DataDictionaryManual_T00148x-16-010_2017-03-20.pdf
+[INFO ][2017-05-31 16:23:55][org.elasticsearch.plugins.PluginsService.<init>(PluginsService.java:153)][Lynx] loaded [], sites []
+[INFO ][2017-05-31 16:23:59][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:32)]pool-1-thread-3 start extracting doc:E:\IDEA\DocumentDemo\document_dir\Midas安装指南_MidasV2.0_2017-04-10.pdf
+[INFO ][2017-05-31 16:23:59][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:32)]pool-1-thread-2 start extracting doc:E:\IDEA\DocumentDemo\document_dir\InceptorODBCDeveloperGuide_T00148x-15-010_2017-04-10.pdf
+[INFO ][2017-05-31 16:23:59][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:32)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\DataDictionaryManual_T00148x-16-010_2017-03-20.pdf
+[INFO ][2017-05-31 16:24:02][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:44)]Extract text from Midas安装指南_MidasV2.0_2017-04-10.pdf, write text to text_dir\Midas安装指南_MidasV2.0_2017-04-10.pdf.txt
+[INFO ][2017-05-31 16:24:02][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:46)]Extract text from Midas安装指南_MidasV2.0_2017-04-10.pdf, load to ES
+[INFO ][2017-05-31 16:24:02][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:52)]pool-1-thread-3 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\Midas安装指南_MidasV2.0_2017-04-10.pdf
+[INFO ][2017-05-31 16:24:03][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:44)]Extract text from InceptorODBCDeveloperGuide_T00148x-15-010_2017-04-10.pdf, write text to text_dir\InceptorODBCDeveloperGuide_T00148x-15-010_2017-04-10.pdf.txt
+[INFO ][2017-05-31 16:24:03][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:46)]Extract text from InceptorODBCDeveloperGuide_T00148x-15-010_2017-04-10.pdf, load to ES
+[INFO ][2017-05-31 16:24:03][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:52)]pool-1-thread-2 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\InceptorODBCDeveloperGuide_T00148x-15-010_2017-04-10.pdf
+[INFO ][2017-05-31 16:24:03][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:44)]Extract text from DataDictionaryManual_T00148x-16-010_2017-03-20.pdf, write text to text_dir\DataDictionaryManual_T00148x-16-010_2017-03-20.pdf.txt
+[INFO ][2017-05-31 16:24:03][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:46)]Extract text from DataDictionaryManual_T00148x-16-010_2017-03-20.pdf, load to ES
+[INFO ][2017-05-31 16:24:03][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:52)]pool-1-thread-1 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\DataDictionaryManual_T00148x-16-010_2017-03-20.pdf
+[INFO ][2017-05-31 16:38:37][org.elasticsearch.plugins.PluginsService.<init>(PluginsService.java:153)][Legacy] loaded [], sites []
+[INFO ][2017-05-31 16:38:41][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:32)]pool-1-thread-2 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pdf
+[INFO ][2017-05-31 16:38:41][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:32)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\POC技巧.pdf
+[INFO ][2017-05-31 16:38:43][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:44)]Extract text from test.pdf, write text to text_dir\test.pdf.txt
+[INFO ][2017-05-31 16:38:43][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:44)]Extract text from POC技巧.pdf, write text to text_dir\POC技巧.pdf.txt
+[INFO ][2017-05-31 16:38:43][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:46)]Extract text from test.pdf, load to ES
+[INFO ][2017-05-31 16:38:43][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:52)]pool-1-thread-2 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pdf
+[INFO ][2017-05-31 16:38:43][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:46)]Extract text from POC技巧.pdf, load to ES
+[INFO ][2017-05-31 16:38:43][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:52)]pool-1-thread-1 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\POC技巧.pdf
+[INFO ][2017-05-31 16:53:24][org.elasticsearch.plugins.PluginsService.<init>(PluginsService.java:153)][Supreme Intelligence] loaded [], sites []
+[INFO ][2017-05-31 16:53:28][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:32)]pool-1-thread-2 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pdf
+[INFO ][2017-05-31 16:53:28][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:32)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\POC技巧.pdf
+[INFO ][2017-05-31 16:53:29][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:43)]Extract text from test.pdf, write text to text_dir\test.pdf.txt
+[INFO ][2017-05-31 16:53:29][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:43)]Extract text from POC技巧.pdf, write text to text_dir\POC技巧.pdf.txt
+[INFO ][2017-05-31 16:53:30][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:45)]Extract text from test.pdf, load to ES
+[INFO ][2017-05-31 16:53:30][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:45)]Extract text from POC技巧.pdf, load to ES
+[INFO ][2017-05-31 16:53:30][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:52)]pool-1-thread-2 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pdf
+[INFO ][2017-05-31 16:53:30][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:52)]pool-1-thread-1 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\POC技巧.pdf
+[INFO ][2017-05-31 16:55:49][org.elasticsearch.plugins.PluginsService.<init>(PluginsService.java:153)][Giant-Man] loaded [], sites []
+[INFO ][2017-05-31 16:55:53][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:32)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\POC技巧.pdf
+[INFO ][2017-05-31 16:55:53][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:32)]pool-1-thread-2 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pdf
+[INFO ][2017-05-31 16:55:54][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:43)]Extract text from POC技巧.pdf, write text to text_dir\POC技巧.pdf.txt
+[INFO ][2017-05-31 16:55:54][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:43)]Extract text from test.pdf, write text to text_dir\test.pdf.txt
+[INFO ][2017-05-31 16:55:54][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:45)]Extract text from POC技巧.pdf, load to ES
+[INFO ][2017-05-31 16:55:54][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:45)]Extract text from test.pdf, load to ES
+[INFO ][2017-05-31 16:55:54][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:52)]pool-1-thread-1 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\POC技巧.pdf
+[INFO ][2017-05-31 16:55:54][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:52)]pool-1-thread-2 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pdf

@@ -1,0 +1,16 @@
+[INFO ][2017-05-27 17:02:15][org.elasticsearch.plugins.PluginsService.<init>(PluginsService.java:153)][Batroc the Leaper] loaded [], sites []
+[INFO ][2017-05-27 17:02:16][io.transwarp.extractor.Main.test(Main.java:38)]connect es success
+[INFO ][2017-05-27 17:53:48][org.elasticsearch.plugins.PluginsService.<init>(PluginsService.java:153)][Tenpin] loaded [], sites []
+[INFO ][2017-05-27 18:31:58][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pdf
+[INFO ][2017-05-27 18:32:01][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:48)]Extract text from test.pdf, write text to text_dir\test.pdf.txt
+[INFO ][2017-05-27 18:33:54][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pdf
+[INFO ][2017-05-27 18:33:56][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:48)]Extract text from test.pdf, write text to text_dir\test.pdf.txt
+[INFO ][2017-05-27 18:39:16][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pdf
+[INFO ][2017-05-27 18:39:18][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:48)]Extract text from test.pdf, write text to text_dir\test.pdf.txt
+[INFO ][2017-05-27 18:40:07][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:27)]pool-1-thread-1 start extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pdf
+[INFO ][2017-05-27 18:40:09][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:48)]Extract text from test.pdf, write text to text_dir\test.pdf.txt
+[INFO ][2017-05-27 18:40:10][org.elasticsearch.plugins.PluginsService.<init>(PluginsService.java:153)][Cancer] loaded [], sites []
+[INFO ][2017-05-27 18:40:11][io.transwarp.elasticsearch.IndexDocument.createIndex(IndexDocument.java:45)]cluster size:3
+[INFO ][2017-05-27 18:40:11][io.transwarp.elasticsearch.IndexDocument.createIndex(IndexDocument.java:49)]SIGN1
+[INFO ][2017-05-27 18:40:11][io.transwarp.docutils.PDFExtractor.extract(PDFExtractor.java:53)]Extract text from test.pdf, load to ES
+[INFO ][2017-05-27 18:40:11][io.transwarp.extractor.ExtractorWorker.run(ExtractorWorker.java:52)]pool-1-thread-1 finish extracting doc:E:\IDEA\DocumentDemo\document_dir\test.pdf
